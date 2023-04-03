@@ -46,7 +46,7 @@
 
 .brand-text-icon {
   font-size: 26px;
-  font-weight: 500;
+  font-weight: 600;
   font-family: "Poppins", sans-serif;
   color: $primary;
   &:hover {
@@ -58,6 +58,7 @@ header {
   border-bottom: 1px solid $gray-200;
   width: 100%;
   position: relative;
+  margin-bottom: 70px;
 
   .navbar {
     height: 80px;
